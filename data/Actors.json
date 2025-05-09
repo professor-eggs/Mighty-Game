@@ -1,7 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"foo","characterIndex":0,"characterName":"foo","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"foo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Terra_battler","characterIndex":0,"characterName":"Terra_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Terra_portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Terra","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Sabin_battler","characterIndex":0,"characterName":"Sabin_walk","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Sabin_portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sabin","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Shadow_battler","characterIndex":0,"characterName":"Shadow_walk","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Shadow_portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shadow","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Sabin_portrait","traits":[],"initialLevel":1,"maxLevel":99,"name":"Locke","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":5,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Celes","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Setzer","nickname":"","note":"","profile":""}
 ]
