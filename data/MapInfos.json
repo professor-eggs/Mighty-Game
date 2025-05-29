@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Overworld","order":1,"parentId":0,"scrollX":819,"scrollY":457},
-{"id":2,"expanded":false,"name":"Opera House","order":2,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":false,"name":"Overworld","order":1,"parentId":0,"scrollX":1398,"scrollY":876},
+{"id":2,"expanded":true,"name":"Opera House","order":2,"parentId":0,"scrollX":1708.5,"scrollY":949.5},
+{"id":3,"expanded":false,"name":"East Room","order":3,"parentId":2,"scrollX":832,"scrollY":640}
 ]
